@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "931143478831",
+    "project_id": "weather-app-9acfc",
+    "storage_bucket": "weather-app-9acfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931143478831:android:b2537b0ed149accac420da",
+        "android_client_info": {
+          "package_name": "com.example.weather_forcast_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfGLsT0JOiCW54J-lVVZGR4vmOBI5GgfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
